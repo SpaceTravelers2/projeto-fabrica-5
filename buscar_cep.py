@@ -1,6 +1,5 @@
 import requests
 
-
 API_CEP = "https://cep.awesomeapi.com.br/json/"
 GOOGLE = "https://www.google.com/search"
 
